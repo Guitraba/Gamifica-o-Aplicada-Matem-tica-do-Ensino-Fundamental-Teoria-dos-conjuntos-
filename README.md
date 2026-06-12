@@ -18,6 +18,10 @@ permitindo que os alunos testem seus conhecimentos em diferentes níveis.
 
 🔗 [Desafio da Teoria dos Conjuntos](https://wordwall.net/pt/resource/114819328)
 
+## Video aulas
+
+Link para o tutorial:https://youtu.be/Hh44wObt8XQ
+
 ## 📚 Conteúdo
 
 ### Nível Fácil
