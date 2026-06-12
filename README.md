@@ -20,7 +20,7 @@ permitindo que os alunos testem seus conhecimentos em diferentes níveis.
 
 ## Video aulas
 
-Link para o tutorial:https://youtu.be/Hh44wObt8XQ
+Link para o tutorial: https://youtu.be/Hh44wObt8XQ
 
 ## 📚 Conteúdo
 
